@@ -1,0 +1,6 @@
+{
+  "name": "Malpani Sargam Super Mart",
+  "description": "Official retail website and Amazon-style shopping platform for Malpani Sargam Super Mart, featuring multi-branch ordering, inventory management, Razorpay payments, and transactional emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
